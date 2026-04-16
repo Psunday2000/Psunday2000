@@ -9,31 +9,34 @@ I'm currently open to remote full-time and contract roles.
 - **Architect and lead** full-stack product builds end to end, from brief to deployment
 - **Build backend systems and APIs** with Laravel, Node.js, Django, MySQL, and PostgreSQL
 - **Build full-stack web apps** with React, Next.js, Vue, and Laravel
+- **Build mobile apps** with React Native and native Android (Kotlin)
 - **Ship AI and NLP in Python.** I published [PySpamDetector](https://pypi.org/project/pyspamdetector/) on PyPI and built the first Igbo-English code-mixed hate speech detection model
-- **Deploy and manage infrastructure.** VPS provisioning, Coturn servers, production deployments
+- **Deploy and manage infrastructure.** VPS provisioning, WebRTC and Coturn servers, production deployments
 - **Lead small engineering teams** through architecture, code review, and delivery
 
 ### What I've shipped
 
 **Divine Promotion Fintech Platform.** Led end to end as tech lead at Techdozie Solutions. Architected the system, built the Laravel backend and REST API, the public company website, and the internal admin web app. Led the team that delivered the mobile app and brand identity. Deployed the platform to production. Serves **848+ registered customers** and has processed over **₦795M in total deposits**. Live in production, with the mobile app on Google Play.
 
-Other work includes a restaurant discovery platform using geolocation matching for the African diaspora, a social media SaaS with full Meta OAuth integration across Facebook, Instagram and X, multiple e-commerce platforms, and a real-time video calling app with a self-hosted Coturn TURN server for NAT traversal.
+**A social media mobile app I built end to end.** Kotlin Android frontend, Node.js backend, and a WebRTC-based 1:1 and group video calling system with a self-hosted Coturn TURN server on a VPS for NAT traversal. Client name under NDA.
+
+Other work includes a restaurant discovery platform using geolocation matching for the African diaspora, a social media SaaS with full Meta OAuth integration across Facebook, Instagram and X, multiple e-commerce platforms, and React Native mobile betting app frontends.
 
 Pinned below are a mix of open-source work and case studies from client projects. Source code for client projects is private under NDA.
 
 ### Stack
 
-**Languages:** Python, PHP, JavaScript, TypeScript, SQL
+**Languages:** Python, PHP, JavaScript, TypeScript, SQL, Kotlin
 
 **Backend & Full-Stack:** Laravel, Node.js, Django, Next.js, React, Vue
 
-**Mobile (team delivery):** Flutter, React Native, Kotlin
+**Mobile:** React Native, Kotlin (native Android)
 
 **AI/ML:** scikit-learn, Pandas, NumPy, NLP
 
 **Databases:** MySQL, PostgreSQL, SQLite
 
-**Infrastructure:** VPS provisioning and deployment, Coturn, Git, Postman
+**Infrastructure:** VPS provisioning and deployment, Coturn, WebRTC, Git, Postman
 
 ### Let's talk
 
